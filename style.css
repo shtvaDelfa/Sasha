@@ -1,0 +1,35 @@
+body {
+    background-color: (gor);
+    height: 100vh;
+    background: url(buket_annabel-1.webp) no-repeat  center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {background-color: rgb(243, 137, 253) ;
+border-radius: 20px ;
+width: 240px;
+text-align: center;
+}
+
+.card-header {
+    background-color: rgb(243, 148, 243);
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card-body {}
+
+.card-footer {
+    background-color:rgb(250, 143, 239) ;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.card-footer button {
+background-color: rgb(238, 129, 245);
+border-radius: 10px;
+}
